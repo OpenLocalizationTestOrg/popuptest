@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47084-bb5968110577611ff634571b08f6ee3a" source-language="en" target-language="cs" parent-post-id="96276" version="4" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/mac/open-multiple-solutions-instances-visual-studio-mac/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCg0KCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio Mac common questions on how to open multiple solutions or instances of Visual Studio for Mac.</source>
+            <target state="new">Visual Studio Mac common questions on how to open multiple solutions or instances of Visual Studio for Mac.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>How do I open multiple solutions or instances of Visual Studio for Mac?</source>
+            <target state="new">How do I open multiple solutions or instances of Visual Studio for Mac?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/mac/open-multiple-solutions?view=vsmac-2019" rel="noopener noreferrer" target="_blank"&gt;</bpt>https://docs.microsoft.com/visualstudio/mac/open-multiple-solutions?view=vsmac-2019<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/mac/open-multiple-solutions?view=vsmac-2019" rel="noopener noreferrer" target="_blank"&gt;</bpt>https://docs.microsoft.com/visualstudio/mac/open-multiple-solutions?view=vsmac-2019<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
