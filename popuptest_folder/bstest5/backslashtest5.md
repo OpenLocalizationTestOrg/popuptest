@@ -9,6 +9,8 @@ helpviewer_keywords:
   - "<specifiedPickupDirectory> element"
 ms.assetid: 0121f49d-bff2-4bc6-af06-f1628dcd61f1
 ---
+# Update test on June 23
+  
 # \<specifiedPickupDirectory> Element (Network Settings)
 Configures the local directory for a Simple Mail Transport Protocol (SMTP) server.  
   
