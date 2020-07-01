@@ -9,6 +9,9 @@ helpviewer_keywords:
   - "<specifiedPickupDirectory> element"
 ms.assetid: 0121f49d-bff2-4bc6-af06-f1628dcd61f1
 ---
+#update test on June 30
+[![1]][1]
+
 # Update test on June 23
   
 # \<specifiedPickupDirectory> Element (Network Settings)
